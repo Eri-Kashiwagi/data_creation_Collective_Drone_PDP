@@ -1,0 +1,13 @@
+{
+  "seed": 1705530,
+  "class": "LRC1",
+  "scale": "large",
+  "n_orders": 50,
+  "y_hist": {
+    "1": 20,
+    "2": 20,
+    "3": 10
+  },
+  "grid": 418.0,
+  "pd_ratio": 1.15
+}

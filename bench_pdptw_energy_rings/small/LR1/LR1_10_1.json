@@ -1,0 +1,13 @@
+{
+  "seed": 103782,
+  "class": "LR1",
+  "scale": "small",
+  "n_orders": 10,
+  "y_hist": {
+    "1": 2,
+    "2": 6,
+    "3": 2
+  },
+  "grid": 418.0,
+  "pd_ratio": 1.15
+}

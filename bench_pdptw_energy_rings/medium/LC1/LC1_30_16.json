@@ -1,0 +1,13 @@
+{
+  "seed": 1603995,
+  "class": "LC1",
+  "scale": "medium",
+  "n_orders": 30,
+  "y_hist": {
+    "1": 15,
+    "2": 10,
+    "3": 5
+  },
+  "grid": 418.0,
+  "pd_ratio": 1.15
+}
