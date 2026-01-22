@@ -357,10 +357,10 @@ def parse_args() -> argparse.Namespace:
     ap.add_argument("--B", type=float, default=2.0)
     ap.add_argument("--w_drone", type=float, default=20.0)
     ap.add_argument("--w_battery", type=float, default=10.0)
-    ap.add_argument("--gravity", type=float, default=9.81)
-    ap.add_argument("--air_density", type=float, default=1.225)
-    ap.add_argument("--blade_area", type=float, default=0.5)
-    ap.add_argument("--rotor_height", type=float, default=0.2)
+    ap.add_argument("--gravity", type=float, default=9.8)
+    ap.add_argument("--air_density", type=float, default=1.204)
+    ap.add_argument("--blade_area", type=float, default=0.0064)
+    ap.add_argument("--rotor_height", type=float, default=4.0)
 
     ap.add_argument(
         "--pd_ratio",
